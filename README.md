@@ -12,4 +12,7 @@ Repository structure:
 
 This implementation of SACRE is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
+Related publications:
+-Zavala, E., Franch, X., Marco, J., Knauss, A., & Damian, D. (2015, August). SACRE: A tool for dealing with uncertainty in contextual requirements at runtime. In Requirements Engineering Conference (RE), 2015 IEEE 23rd International (pp. 278-279). IEEE.
+
 Main contact: Edith Zavala <zavala@essi.upc.edu>
