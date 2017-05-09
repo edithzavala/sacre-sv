@@ -1,0 +1,13 @@
+MIDlet-1: MIDlet-1,,edu.autonomic.beta.controller.appMIDlet.MIDLet
+MIDlet-Jar-URL: Autonomic.jar
+MIDlet-Permission-4: java.util.PropertyPermission "*" "write"
+MIDlet-Permission-3: javax.microedition.io.HttpProtocolPermission "http://localhost:8080/viewService/sensorsValues/*"
+MIDlet-Permission-2: javax.microedition.io.HttpProtocolPermission "http://localhost:8080/wekaREST/*"
+MicroEdition-Configuration: CLDC-1.8
+MIDlet-Permission-1: java.util.PropertyPermission "*" "read"
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Name: Autonomic MIDlet Suite
+MIDlet-Data-Size: 512
+MIDlet-Permissions: javax.microedition.io.Connector.file.read,javax.microedition.io.Connector.file.write
+MicroEdition-Profile: MEEP-8.0

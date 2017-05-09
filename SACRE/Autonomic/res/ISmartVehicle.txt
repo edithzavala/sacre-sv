@@ -1,0 +1,32 @@
+Contexts
+contextDescription
+Driver is tired
+Driver is dangerously tired
+Driver is sleeping
+*
+Behaviors
+behaviorDescription
+Activate Seat Vibration
+Activate Sound/Light Alert
+Support Lane Keeping
+*
+ContextualRequirements
+contextId,behaviorId
+ctx1,beh1
+ctx2,beh2
+ctx3,beh3
+*
+Sensors
+sensorType
+Lane Camera
+Steering Wheel
+Sun Visor Camera
+ECG
+*
+Variables
+varName,sensorId,max,min
+eyesState,srs3,1,0
+facePosition,srs3,1,0
+heartBeatsPerMinute,srs4,120,0
+handsOnSteeringWheel,srs2,2,0
+*
