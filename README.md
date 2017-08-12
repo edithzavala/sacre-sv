@@ -4,7 +4,7 @@ SACRE is an approach for effectively, efficiently and accurately supporting the 
 
 This repository contains an implementation of SACRE for the smart vehicles domain. Particularly, the current configuration has been designed for detecting and correctly supporting drowsy drivers. This implementation uses data mining for determining the best operationalization of context at runtime.
 
-## Repository structure:
+### Repository structure:
 - SACRE: Java ME implementation of the MAPE-K adaptation feedback loop and the Smart vehicle logic.
 - SmartVehicleView: Java SE implementation of the smart vehicle dashboard and the street view window. Alternatively to these components, the view bridge class (SVViewBridge.java) without GUI elements can be used.
 - ViewService: RESTful service for communicating the SmartVehicleView with the Smart vehicle logic.
@@ -16,7 +16,7 @@ The figure below shows the interaction between the components of this repository
 
 This implementation of SACRE is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-## Getting started
+### Getting started
 - Set up your Oracle Java ME environment (Java ME SDK - http://www.oracle.com/technetwork/java/embedded/javame/index.html).
 
 - Clone this repository.
@@ -55,12 +55,13 @@ This implementation of SACRE is licensed under the [Apache License, Version 2.0]
   
 - Run SACRE in the Java ME emulator. In the emulator's console you will see SACRE's output (MAPE-K functioning, symptoms, adaptations, etc.).
   
-  -Run the smart vehicle view. As mentioned before you can run the GUI components or the bridge class. In case you use the bridge, in console you will see the sensors and actuators reading iterations. We have used the GUI components for demonstrations and the bridge class for testing. 
+- Run the smart vehicle view. As mentioned before you can run the GUI components or the bridge class. In case you use the bridge, in console you will see the sensors and actuators reading iterations. We have used the GUI components for demonstrations and the bridge class for testing. 
 
-## Related publications:
+### Related publications:
 - Zavala, E., Franch, X., Marco, J., Knauss, A., & Damian, D. (2015, August). SACRE: A tool for dealing with uncertainty in contextual requirements at runtime. In Requirements Engineering Conference (RE), 2015 IEEE 23rd International (pp. 278-279). IEEE. (Previous version)
 
-## Videos:
+### Videos:
 - https://www.youtube.com/watch?v=6iBlvbpJ29w (Previous version with GUI components)
+
 
 **Main contact:** Edith Zavala <zavala@essi.upc.edu>
