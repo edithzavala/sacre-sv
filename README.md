@@ -1,6 +1,6 @@
 # SACRE (Smart Adaptation through Contextual REquirements)
 
-SACRE is an approach for effectively, efficiently and accurately supporting the adaptation of modern software systems’ contextual requirements in the presence of uncertainty at runtime.
+SACRE is an approach for effectively, efficiently and accurately supporting the adaptation of modern software systems’ contextual requirements in the presence of uncertainty at runtime. In order to perform the adaptation process, SACRE relies on a MAPE-K feedback loop.
 
 This repository contains an implementation of SACRE for the smart vehicles domain. Particularly, the current configuration has been designed for detecting and correctly supporting drowsy drivers. This implementation uses data mining for determining the best operationalization of context at runtime.
 
