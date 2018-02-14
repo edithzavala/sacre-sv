@@ -60,6 +60,8 @@ This implementation of SACRE is licensed under the [Apache License, Version 2.0]
 ### Related publications:
 - Zavala, E., Franch, X., Marco, J., Knauss, A., & Damian, D. (2015, August). SACRE: A tool for dealing with uncertainty in contextual requirements at runtime. In Requirements Engineering Conference (RE), 2015 IEEE 23rd International (pp. 278-279). IEEE. (Previous version)
 
+- Zavala, E., Franch, X., Marco, J., Knauss, A., & Damian, D. (2018). SACRE: Supporting contextual requirements’ adaptation in modern self-adaptive systems in the presence of uncertainty at runtime. Expert Systems with Applications.
+
 ### Videos:
 - https://www.youtube.com/watch?v=6iBlvbpJ29w (Previous version with GUI components)
 
